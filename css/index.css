@@ -202,3 +202,14 @@ img.animated-gif{
     max-width: 40%;
     height: auto; 
   }
+
+.img-box {
+    background-color: #0c0c0c;
+    border-radius: 200%;
+    width: 300px;
+    padding: 23px;
+  }
+  
+.code-img {
+    width: inherit;
+  }
